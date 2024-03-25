@@ -1,6 +1,6 @@
 ﻿using TesteApisul.Classes;
 
-var service = new ElevadorService(@"C:\apisul\input.json");
+var service = new ElevadorService("./../../../input.json");
 
 var andarMenosUtilizado = service.andarMenosUtilizado();
 Console.WriteLine("Andar(es) menos utilizado(s): " + string.Join(", ", andarMenosUtilizado));
