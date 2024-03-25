@@ -1,0 +1,14 @@
+C:\apisul\TesteApisul\TesteApisul\bin\Debug\net8.0\TesteApisul.exe
+C:\apisul\TesteApisul\TesteApisul\bin\Debug\net8.0\TesteApisul.deps.json
+C:\apisul\TesteApisul\TesteApisul\bin\Debug\net8.0\TesteApisul.runtimeconfig.json
+C:\apisul\TesteApisul\TesteApisul\bin\Debug\net8.0\TesteApisul.dll
+C:\apisul\TesteApisul\TesteApisul\bin\Debug\net8.0\TesteApisul.pdb
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\TesteApisul.GeneratedMSBuildEditorConfig.editorconfig
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\TesteApisul.AssemblyInfoInputs.cache
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\TesteApisul.AssemblyInfo.cs
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\TesteApisul.csproj.CoreCompileInputs.cache
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\TesteApisul.dll
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\refint\TesteApisul.dll
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\TesteApisul.pdb
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\TesteApisul.genruntimeconfig.cache
+C:\apisul\TesteApisul\TesteApisul\obj\Debug\net8.0\ref\TesteApisul.dll
